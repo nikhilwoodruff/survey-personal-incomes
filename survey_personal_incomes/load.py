@@ -58,6 +58,7 @@ class Uprating:
 
 class SPI:
     def __init__(self, year: int):
+        year = int(year)
         self.year = year
         self.tables = {}
         self.data_path = SPI_path / "data" / str(year)
