@@ -1,0 +1,15 @@
+source: [
+  https://www.iser.essex.ac.uk/research/publications/working-papers/cempa/cempa7-20.pdf#page=109,
+  https://statswales.gov.wales/Catalogue/Business-Economy-and-Labour-Market/People-and-Work/Earnings/medianweeklyearnings-by-ukcountryenglishregion-year
+]
+labour_income:
+  2015: 1.0000
+  2016: 1.0218
+  2017: 1.0434
+  2018: 1.0782
+  2019: 1.1102
+  2020: 1.1108
+  2021: 1.1519
+  2022: 1.1830
+  2023: 1.2187
+  2024: 1.2564
